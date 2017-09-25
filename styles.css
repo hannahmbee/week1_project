@@ -1,0 +1,67 @@
+nav {
+	display: block;
+}
+
+header {
+	background-color: gainsboro;
+	font-family: 'Sue Ellen Francisco', cursive;
+}
+
+body {
+	background: gainsboro;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: -20px;
+	border: 2px solid hotpink;
+}
+
+#index {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+#resume {
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+h2 {
+	margin-bottom: -10px;
+}
+
+h3 {
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+h4 {
+	margin-top: -10px;
+	margin-bottom: -10px;
+}
+
+p .index {
+	padding: 10px;
+}
+
+a{
+	color: navy;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+a:visited {
+	color: orange;
+}
+
+img {
+	padding: 15px;
+}
+
+.rotateimg180 {
+	transform: rotate(180deg);
+}
+
+
